@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+input:-webkit-autofill {
+    -webkit-box-shadow: 0 0 0 30px #F3F4F6 inset;
+    /* Change the color and adjust the inset shadow as needed */
+    background-color: #F3F4F6;
+}
